@@ -1,8 +1,5 @@
 # Geem_AA_etal_2024
 
-# Project Title
-Geem_AA_etal_2024
-
 ## Description
 
 This repository contains the data and scripts files that used in the manuscripts.
