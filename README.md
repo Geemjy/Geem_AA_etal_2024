@@ -4,11 +4,6 @@
 
 This repository contains the script and data file (in CSV) used by Geem et al. AA 2024. The repository contains:
 
-1) Observational measurements: the compiled observational data 
-2) How to derive the polarimetric parameters
-3) How to derive the result in the coefficient correlation 
-4) How to plot the figures 1, 2, 3, 4
-
 | Command | Description |
 | --- | --- |
 | README.md.    | This file|
