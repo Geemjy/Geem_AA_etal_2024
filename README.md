@@ -10,6 +10,7 @@ This repository contains the script and data file (in CSV) used by Geem et al. A
 | data reduction   | The directory contains the script for the polarimetric data reduction   |
 | result  | The directory contains the script for deriving the result in the manuscript.|
 | figure        | The directory contains the script for plotting the figures in the manuscript.|
+| reference data  | The directory contains the materials needed to run scripts.|
 
 
 
