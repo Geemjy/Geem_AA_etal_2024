@@ -2,8 +2,9 @@
 
 ## Description
 
-This repository contains the script and data file (in CSV) used by Geem et al. AA 2024. The repository contains:
-
+This repository contains the script and data file (in CSV) used by Geem et al. AA 2024. 
+(https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202450384)
+The repository contains:
 | Command | Description |
 | --- | --- |
 | README.md.    | This file|
@@ -12,7 +13,7 @@ This repository contains the script and data file (in CSV) used by Geem et al. A
 | figure        | The directory contains the script for plotting the figures in the manuscript.|
 | reference data  | The directory contains the materials needed to run scripts.|
 
-
+The data (e.g. fits images) can be downloaded from Zenodo. (https://zenodo.org/records/11669145)
 
 ## Help
 If you have any questions or comments, please contact Jooyeon GEEM (ksky0422@gmail.com)
