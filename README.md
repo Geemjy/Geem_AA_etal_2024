@@ -13,7 +13,7 @@ The repository contains:
 | figure        | The directory contains the script for plotting the figures in the manuscript.|
 | reference data  | The directory contains the materials needed to run scripts.|
 
-The data (e.g. fits images) can be downloaded from[Zenodo](https://zenodo.org/records/11669145).
+The data (e.g. fits images) can be downloaded from [Zenodo](https://zenodo.org/records/11669145).
 ## Help
 If you have any questions or comments, please contact Jooyeon GEEM (ksky0422@gmail.com)
 
