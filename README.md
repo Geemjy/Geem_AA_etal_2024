@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the data and scripts files that used in the manuscripts.
+This repository contains the data and script files that are used in the manuscripts.
 
 
 Observational measurements: the compiled observational data 
@@ -15,7 +15,7 @@ How to plot the figures 1, 2, 3, 4
 ## Help
 
 If you have any question or comments, please contact Jooyeon GEEM (ksky0422@gmail.com)
-run if program contains helper info
+
 
 ## Authors
 
@@ -34,4 +34,3 @@ Jooyeon Geem
     * Initial Release
 
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
